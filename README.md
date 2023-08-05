@@ -1,4 +1,5 @@
 # Amit Pal
+![Profile Picture](https://github.com/amitpal2454/amitpal.github.io/blob/main/IMG_20220917_133958_918.jpg)
 
 ## Data Scientist | Senior Software Engineer
 
